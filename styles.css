@@ -8,10 +8,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400;1,600&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Oswald:wght@300;400;500;600&display=swap');
 
 :root {
-  --oxblood:     #5C1A1A;
-  --deep-ox:     #3A0D0D;
-  --brass:       #8B6914;
-  --brass-light: #A8820F;
+  --oxblood:     #8B4513;
+  --deep-ox:     #3D1F0A;
+  --brass:       #B8860B;
+  --brass-light: #D4A017;
   --hay:         #C9A96E;
   --parchment:   #F4EDD8;
   --cream:       #F7F3EA;
