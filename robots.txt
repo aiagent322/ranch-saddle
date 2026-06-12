@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.ranchhorsesaddles.com/sitemap.xml
+Sitemap: https://ranchhorsesaddles.com/sitemap.xml
